@@ -1,0 +1,212 @@
+battery life	20966
+removable battery	2656
+hold a charge	2584
+battery life is good	1992
+replace the battery	1982
+battery charge	1944
+battery lasts	1944
+days without charging	1870
+good battery life	1755
+battery dies	1729
+battery drains	1705
+bells and whistles	1662
+charge it every day	1650
+great battery life	1312
+charge the battery	1309
+battery life is great	1219
+fully charged	1214
+long time	1192
+drain the battery	1164
+lasts all day	1130
+battery lasts all day	1065
+full day	1032
+battery last all day	1018
+full charge	993
+times a day	984
+long battery life	950
+charge for more than  hours	829
+mAh battery	744
+hours to charge	706
+battery replacement	687
+extended battery	654
+end of the day	652
+charge it every night	630
+couple of days	624
+battery is dead	595
+battery in about  hours	593
+battery runs	579
+battery cover	576
+couple of hours	538
+day battery	538
+battery would not hold a charge	537
+battery is not removable	534
+won t charge	508
+hours a day	490
+stay charged	490
+fast charging	489
+short battery life	480
+lasts about  hours	469
+battery life is short	462
+poor battery life	446
+power saving	446
+charges quickly	441
+BLU Life	440
+battery does not last long	432
+battery life is excellent	418
+quick charge	411
+half a day	402
+battery life is amazing	395
+heavy usage	392
+pull the battery	385
+half hour	370
+excellent battery life	368
+charges fast	364
+low battery	360
+decent battery life	360
+stopped charging	341
+battery drains quickly	333
+battery life is terrible	319
+wouldn t charge	315
+hours of battery	310
+run out of battery	304
+battery life is poor	303
+day and a half	299
+day with moderate	298
+battery is low	291
+battery holds	291
+battery life is decent	268
+battery is mAh	262
+heavy user	257
+life battery	241
+dead battery	237
+airplane mode	237
+amazing battery life	226
+days and  hours	224
+long battery	204
+long lasting	201
+charge fully	195
+fully charged battery	191
+long to charge	186
+day time	184
+charge to full	181
+spent hours	178
+long lasting battery	173
+lasts a long	166
+battery lasts a long	163
+terrible battery life	162
+drains fast	159
+wireless charging	158
+battery life is long	155
+half the time	154
+lasts longer	152
+battery pull	135
+night to charge	135
+power user	131
+dying battery	129
+pretty quickly	128
+hour and a half	127
+drains quickly	123
+plugged it in to charge	123
+couple of times	117
+takes a long	115
+life is good	103
+saving mode	98
+drains the battery quickly	97
+plugged into the charger	91
+pretty good	88
+lasting battery	82
+charge holds	81
+hold battery	79
+charging plug	79
+days on a full	71
+days I ended	70
+takes forever	68
+charge for a long	67
+runs fast	61
+battery has a very short	60
+days it lasts	59
+long life battery	58
+times as long	54
+battery extender	54
+cover and battery	48
+short battery	48
+pretty fast	48
+short life	47
+hold a charge  The battery	46
+period of time	46
+charge won	45
+long the battery lasts	42
+moderate use day	41
+save power	38
+hold a battery charge	37
+couple of weeks	37
+charge  wouldn	36
+battery is long lasting	36
+day and the battery lasts	35
+charge or stay	32
+battery has a very short life	31
+charging stopped	29
+won t turn	29
+pretty decent	27
+battery has a long life	27
+good life	26
+needed a replacement	25
+life is short	25
+time between  and half	25
+low light	25
+battery charged fully	24
+whistles and bells	21
+mode to save	21
+long it takes	21
+day  a couple	19
+charger plug	17
+quickly drain the battery	16
+fast draining	15
+hours spent	15
+battery charge holds	14
+takes great	13
+usage Not a heavy	12
+quickly drain	12
+lasts a few days   Every once in a while  the battery	12
+quickly the battery drains	12
+battery has a good life	11
+Short life battery	10
+great for taking	9
+hours  and lasts	9
+longer lasting	9
+charge it wirelessly	7
+lasting battery  it can even last two days	7
+life of battery short	6
+times within a couple	6
+running in the background	5
+time period	5
+lasts long  battery	5
+charges batteries fully	5
+Life battery is good	5
+life of the battery it s great	4
+life  Blu	4
+turned off and won	4
+charge an the battery DID NOT hold	4
+fast and runs	4
+hour and now after a couple	4
+battery is quickly drained	4
+user and when I say heavy	3
+replace when needed	3
+fast and pretty	3
+light and in low	3
+charge it still holds the battery	2
+users and the power	2
+battery   On the first day I had it  it lasted	2
+life of the battery is terrible	2
+poor life battery	2
+mode for airplanes	2
+great life out of the battery	2
+battery for  hour life	2
+lasting so it is best to have another battery if you re going on a long	1
+life  Battery does NOT last as long	1
+good life battery	1
+quick  pretty	1
+battery every day  life	1
+decent and pretty	1
+good and pretty	1
+draining too quickly   The battery	1

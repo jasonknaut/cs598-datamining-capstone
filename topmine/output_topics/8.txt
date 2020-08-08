@@ -1,0 +1,196 @@
+call quality	3804
+dropped calls	3158
+sound quality	2716
+make calls	2713
+ring tones	1416
+missed calls	1143
+voice mail	990
+speaker is loud	771
+voice quality	766
+answer a call	751
+receive calls	727
+incoming calls	700
+end the call	630
+voice dialing	626
+call drops	620
+volume is very low	595
+hear the person	586
+calls and texts	586
+Call quality is good	576
+loud and clear	571
+loud speaker	557
+make and receive calls	512
+voice calls	510
+speaker sound	508
+phone to make calls	497
+calls are clear	454
+hard to hear	450
+people can t hear	433
+call people	425
+crystal clear	422
+hear people	404
+sounds good	400
+audio quality	384
+stereo speakers	368
+couldn t hear	352
+build quality	346
+poor quality	340
+ear piece	318
+sound is clear	304
+speaker volume	303
+sound speakers	299
+volume control	285
+quality on calls	282
+people call	278
+low volume	264
+voice command	263
+hear calls	262
+bluetooth headset	258
+good call quality	255
+hear the caller	249
+call can t hear	236
+clear sound	231
+good quality	231
+front facing speakers	226
+people complain	224
+quality is good	224
+quality sound	221
+texting and calling	214
+receive phone calls	214
+sound quality is good	213
+call and answer	203
+call and receive	195
+poor reception	192
+ear buds	192
+make a call the phone	189
+dial a number	187
+call I make	175
+call end	167
+clear and loud	163
+good sound	160
+low quality	157
+called the number	152
+make sense	151
+volume speaker	145
+callers can t hear	141
+good sound quality	138
+clear calls	127
+good reception	123
+good phone	120
+number to call	120
+person can t hear	119
+voice recognition	116
+people talking	106
+voice to text	104
+quality is poor	104
+crisp and clear	101
+calls  missed	94
+reception is good	90
+talk and text	84
+high quality	82
+talk to people	80
+reception is poor	80
+phone is good	80
+received the phone	79
+phone number	70
+call voice	70
+dropped it a few times	68
+phone calls I make	64
+make and receive	60
+receive and make calls	58
+facing speakers	57
+quality of voice	56
+high end	56
+clear and crisp	47
+front facing	45
+hard time	43
+phone I received	42
+listen to music	38
+lot of people	37
+receive text	37
+numbers to dial	35
+speed dial	34
+talk time	30
+make calls and receive	30
+speaker facing	29
+Bluetooth connection	28
+text and talk	26
+quality build	25
+calls  incoming	25
+quality on calls is good	24
+sounds great	23
+dialing and voice	23
+control the volume	22
+good quality calls	22
+picture quality	21
+Bottom line	20
+text and voice	19
+quality audio	19
+receive or make	19
+isn t bad	19
+good thing	18
+connected to Bluetooth	18
+hear me  but I couldn	16
+speakers are front facing	16
+call me and make the phone	15
+good quality sound	14
+quality is low	14
+calls are of good quality	14
+time I dropped	13
+quality sounds good	13
+receive calls and make	13
+speakers  stereo	13
+number on the phone	12
+people don	11
+tones only ring	11
+text and receive	11
+haven t had any problems	10
+side by side	10
+couldn t find	10
+pictures are clear	10
+great sound	10
+hard to find	9
+quality is good during calls	8
+thing good	8
+headset and bluetooth	8
+don t know why people	7
+bad thing	7
+don t understand	6
+sound Good quality	6
+doesn t matter	6
+quality is high	5
+call I make or receive	5
+good pictures	4
+hear   Hard	4
+time talking	4
+great reception	4
+quality is good  the sound	4
+speakers facing front	4
+thing I noticed	3
+calls I receive and make	3
+sense makes	3
+people a lot	3
+phone is great	2
+facing front	2
+facing front speakers	2
+dial up speed	2
+times on hard	2
+calls  The phone receives	2
+find it hard	2
+reception is great	2
+recognition for voice	2
+music listening	1
+Motorola RAZR	1
+complaining are people	1
+great phone	1
+find out I couldn	1
+calls  and great quality	1
+thing I don	1
+PIECE   EAR	1
+commands and voice	1
+quality pictures	1
+clear pictures	1
+mail  if you have voice	1
+noticeable thing	1
+quality is great	1
+thing bad	1

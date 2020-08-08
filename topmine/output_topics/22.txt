@@ -1,0 +1,96 @@
+Virgin Mobile	2826
+Boost Mobile	1213
+international version	1181
+Metro PCS	1002
+signal strength	956
+Verizon network	748
+Unlocked GSM	675
+Consumer Cellular	654
+service provider	625
+Verizon Wireless	577
+Sprint network	539
+connect to wifi	492
+factory unlocked	469
+mobile data	468
+GSM network	466
+unlocked version	441
+LTE bands	440
+data connection	433
+connect to the network	432
+data speeds	412
+coverage area	397
+wifi connection	395
+LTE network	387
+mobile network	366
+Verizon store	313
+data plan	296
+GSM Unlocked	277
+network connection	250
+unlock code	237
+internet connection	214
+social networking	199
+Sprint store	189
+international unlocked	176
+unlocked international	174
+connect to the internet	169
+international travel	167
+United States	159
+home wifi	149
+customer service	144
+poor reception	122
+travel internationally	101
+network  Verizon	93
+activate with Verizon	89
+speed data	83
+band  LTE	81
+Verizon to activate	78
+wifi at home	78
+advertised as unlocked	77
+connect to data	72
+network  G LTE	69
+version unlocked	62
+area coverage	61
+reception is poor	56
+network  Sprint	56
+Network GSM	53
+prepaid plan	52
+older model	45
+data usage	43
+provide service	42
+network  T Mobile	41
+version with more internal	36
+unlocked as advertised	34
+internet access	33
+data on T Mobile	24
+access the internet	24
+unlocked from the factory	24
+Mobile  Virgin	20
+code to unlock	20
+Wireless Verizon	19
+APN settings	17
+major problem	14
+plan with data	14
+customer support	13
+strength signal	12
+major issues	11
+unlimited data	9
+change the settings	7
+couldn t find	6
+Mobile and Boost	5
+set the APN	5
+selling point	4
+store or Verizon	4
+store you cannot keep your Sprint	4
+unlimited plan	4
+settings to change	3
+common problem	3
+service and customer	2
+data  unlimited	2
+PCS  Metro	2
+model older	2
+plan  prepaid	2
+issues but nothing major	2
+usage of data	2
+cellular  this consumes	2
+serves its purpose	1
+plan with unlimited	1

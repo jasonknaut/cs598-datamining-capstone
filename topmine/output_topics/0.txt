@@ -1,0 +1,179 @@
+power button	3206
+qwerty keyboard	2126
+home button	1663
+touch screen	1465
+volume buttons	1169
+home screen	1015
+physical keyboard	996
+Bottom line	993
+press the button	905
+back button	757
+fingerprint scanner	744
+finger print	719
+slide out keyboard	677
+button on the side	627
+double tap	568
+lock screen	526
+dial a number	504
+push the button	499
+buttons on the back	476
+key pad	464
+fingerprint sensor	458
+virtual keyboard	457
+button presses	444
+side buttons	414
+hit the button	379
+buttons on the bottom	369
+speed dial	354
+side by side	282
+hard to press	278
+screen lock	275
+power and volume buttons	260
+turn the screen	255
+volume control	243
+tap the screen	236
+button push	219
+text messages	212
+screen turns	199
+main screen	198
+hard to find	195
+top of the line	194
+press hard	171
+volume and power buttons	169
+touch sensitive	153
+hard time	152
+airplane mode	151
+easy to navigate	149
+makes it easy	140
+button and volume	133
+makes it easier	129
+power saving	117
+takes  seconds	111
+turn back	110
+power and volume	110
+notification light	109
+switch back	107
+buttons  home	105
+easy to set	101
+numbers to dial	101
+change the settings	99
+screen sensitivity	86
+power button and volume	85
+keyboard slides	84
+long time	81
+screen  tap	80
+volume and power	80
+screen is small	76
+opening and closing	75
+settings to change	62
+button and power	62
+button  hit	61
+make sense	60
+hold in your hand	59
+small hands	58
+sensitive touch	58
+screen touch	56
+large screen	54
+small screen	53
+put it back	52
+contact list	52
+volume button and power	49
+multiple times	47
+screen home	45
+find it hard	43
+bottom buttons	42
+keyboard  QWERTY	39
+main reason	39
+thing I don	34
+buttons power and volume	33
+save power	32
+set up was easy	32
+takes a long	30
+touch response	28
+sensitive screen	28
+screen is very responsive	28
+hand to hold	28
+keyboards  physical	28
+saving mode	27
+control the volume	27
+responsive touch	26
+screen is large	23
+entry level	22
+keyboard  virtual	21
+period of time	21
+big hands	21
+front and back	19
+pretty quickly	18
+line at the top	18
+touch screen is very responsive	18
+big screen	17
+easy to read	16
+larger screen	16
+thing I noticed	16
+closing and opening	16
+screen went blank	15
+back  I used to have to turn	15
+takes forever	15
+dial up speed	14
+times on hard	13
+easy to make	13
+bit slow	13
+mode to save	12
+buttons  volume  power	12
+line at the bottom	11
+light notification	11
+screen is big	11
+typing input	10
+pad keys	10
+input type	10
+responsive screen	8
+doesn t feel	8
+don t care	7
+turns off randomly	7
+blank screen	7
+navigation is easy	7
+smaller screen	7
+long it takes	7
+hands are small	6
+won t turn	6
+back to put	6
+error message	6
+messages  text	5
+back and front	5
+sensor  fingerprint	5
+timely manner	5
+screen is larger	4
+screen is the main	4
+easier to make	4
+started acting	4
+feel in the hand	4
+calls and texts	4
+responsive touch screen	4
+times as long	3
+make calls	3
+don t bother	3
+list of contacts	3
+print finger	3
+screen is smaller	3
+called the number	2
+operating system	2
+input type  hidden	2
+randomly turn	2
+scanner    We should be able to use the fingerprint	2
+seconds it takes	2
+doesn t matter	2
+tap everything   Double	2
+hands are big	2
+slow down a bit	1
+angle view	1
+message after error	1
+time period	1
+touch responsiveness on the screen	1
+feel   it doesn	1
+manner   Second time	1
+end the call	1
+calls  missed	1
+hand feel	1
+time because I know multiple	1
+front facing	1
+number to call	1
