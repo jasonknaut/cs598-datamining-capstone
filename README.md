@@ -4,7 +4,7 @@ Final Project for CS598 DM Capstone
 ### Product Perception Framework Implementation
 Almost all of the product perception framework and corresponding analysis is implemented in the Jupyter Notebook. This includes components: 3.1 Preprocessor, 3.3 Product Attribute Selection, 3.4 Product Attribute Vocabulary, 3.5 Phrase Candidate Generator & Tagger, 3.6 Sentiment Scorer, 3.7 Product Attribute Scorer, and 3.8 Robust Data Preparer.
 
-The Product Phrase Extractor (described in section 3.2 of the paper) was conducted using ToPMine. The only file requiring modification was the run.sh file, which is included in the topmin directory of this repo.
+The Product Phrase Extractor (described in section 3.2 of the paper) was conducted using the ToPMine implementation created by the paper's author (http://elkishk2.web.engr.illinois.edu/). The only file requiring modification was the run.sh file, which is included in the topmin directory of this repo.
 
 ### All Generated Topics -- 30 Product-Related Topics
 
